@@ -4,7 +4,7 @@
 Путь до файла .py:
 NikolayEfremovPython/NikolayEfremovPython/NikolayEfremovPython.py
 
-Путь для скачивания .exe:
+Путь для скачивания .exe для windows:
 NikolayEfremovPython/NikolayEfremovPython/dist/NikolayEfremovPython.exe
 
 Дана скобочная последовательность: [((())()(())]]
